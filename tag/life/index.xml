@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life | Academic</title>
+    <link>https://example.com/tag/life/</link>
+      <atom:link href="https://example.com/tag/life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Life</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Life</title>
+      <link>https://example.com/tag/life/</link>
+    </image>
+    
+    <item>
+      <title>Как прошла моя неделя.</title>
+      <link>https://example.com/post/my_week/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my_week/</guid>
+      <description>&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;В понедельник была всего одна пара, на которой я рассказал свой доклад. За него мне так и не выставили оценку.День продолжился в долгой подготовке к предстоящей контрольной работе по математическому анализу. Нужно будет решить несколько интегралов.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;День контрольной работы настал и я чувствовал себя достаточно готовым, чтобы написать на удовлетворяющий меня балл. В итоге смог написать только список табличных интегралов. В основной части начал с самого сложного и в итоге не успел решить легкие задания, потому что осталось 5 минут (спойлер: сложное задания я решил неправильно). Дорогой дневник&amp;hellip; Мне не передать словами ту боль, которую я сегодня испытал.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;Пришли результаты по контрольной работе, я получил 0 баллов). Следующие две недели готовимся к переписыванию. В остальном нормальный день.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;Из интересного только то, что я смог сдать задание по технологиям программирования на максимальный балл, но ни я, ни преподаватель не поняли, каким образом работает один кусок моего кода. Есть несколько гипотез, на следующей неделе станет все понятно. Надеюсь, что из-за этого я не потеряю баллы.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;Этот день примечателен тем, что я наконец-то поеду домой во Владимир, где не был уже три недели. Там буду отмечать день рождения моей мамы. Конец недели будет прекрасным.&lt;/p&gt;
+&lt;p&gt;На этом описание моей недели закончится.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
