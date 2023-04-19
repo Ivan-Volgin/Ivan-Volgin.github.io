@@ -5,12 +5,111 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Report</title>
+      <link>https://example.com/post/otchet/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/otchet/</guid>
+      <description>&lt;h2 id=&#34;как-оформить-титульный-лист&#34;&gt;Как оформить титульный лист&lt;/h2&gt;
+&lt;p&gt;На титульном листе должно быть указано, какой тип работы вы выполняете и какой этап. Также нужно указать дисциплину, по которой вы делает работу. В самом конце указываете свое имя, как автора работы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;цель-работы-задание-и-теоретическое-введение&#34;&gt;Цель работы, задание, и теоретическое введение&lt;/h2&gt;
+&lt;p&gt;После оформления титульного листа нужно предоставить всю необходимую информацию о работе. Отдельным пунктом нужно указать цель работы. Так же нужно указать задания, которые будут выполнены по ходу работы. После всего этого нужно предоставить теоретический материал, который понадобится для понимания работы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h2&gt;
+&lt;p&gt;На этом этапе нужно описывать все шаги выполнения лабораторной работы. Рассказываете, как выполнили ту или иную задачу и предоставляете скриншоты (рисунки/фотографии). В тексте обязательно нужно указать ссылки на скриншоты, а сами скриншоты нужно подписать.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
+&lt;p&gt;В конце обязательно нужно сделать вывод по проделанной работе. Надо сказать, что было проделано, какие результаты получились и что нового удалось узнать.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как прошла моя неделя 2.0</title>
+      <link>https://example.com/post/my_week.3/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my_week.3/</guid>
+      <description>&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;Неделя началась с двух лекций по основам программирования и математической логике. В этот день я лег спать в 4 часа утра, поэтому на лекциях я присутствовал формально. Ничего не усвоил, но это не страшно. И так смогу все понять.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;Вторник получился продуктивным. Я проспал пары, но это не помешало сделать мне очень много дел. Ставлю лайк таким дням.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;Сегодняшний день. Делаю индивидуальный проект сегодня так как в субботу день рождения у брата. Сегодня был коллоквиум по аналитической геометрии, он прошел прекрасно. Сдал на 10 из 10. На сегодня еще много планов, так что день тоже обещает быть продуктивным.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;Четверг наверное будет, как четверг. Ничего не могу сказать об этом дне.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;Пятница это день, когда мы сидим в университете до 19:20 на английском. Это стало не так уж и сложно, потому что на улице поздно темнеет и прекрасная погода. И нет, я не уеду во Владимир, потому что в субботу история, вечером буду готовить доклад.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;С Днем рождения братишка!!! Человеку исполняется 19 лет. Надеюсь вы присоединитесь к моим поздравлениям. План на день: сходить на историю, рассказать первым доклад, побежать на поезд, и как можно скорее приехать во Владимир на день рождения. Вечер будет прекрасен&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Markdown</title>
@@ -320,7 +419,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-289743165&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-412867593&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -330,7 +429,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-289743165&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-412867593&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

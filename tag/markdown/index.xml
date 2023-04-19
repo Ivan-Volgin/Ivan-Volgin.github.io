@@ -5,12 +5,91 @@
     <link>https://example.com/tag/markdown/</link>
       <atom:link href="https://example.com/tag/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Markdown</title>
       <link>https://example.com/tag/markdown/</link>
     </image>
+    
+    <item>
+      <title>Report</title>
+      <link>https://example.com/post/otchet/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/otchet/</guid>
+      <description>&lt;h2 id=&#34;как-оформить-титульный-лист&#34;&gt;Как оформить титульный лист&lt;/h2&gt;
+&lt;p&gt;На титульном листе должно быть указано, какой тип работы вы выполняете и какой этап. Также нужно указать дисциплину, по которой вы делает работу. В самом конце указываете свое имя, как автора работы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;цель-работы-задание-и-теоретическое-введение&#34;&gt;Цель работы, задание, и теоретическое введение&lt;/h2&gt;
+&lt;p&gt;После оформления титульного листа нужно предоставить всю необходимую информацию о работе. Отдельным пунктом нужно указать цель работы. Так же нужно указать задания, которые будут выполнены по ходу работы. После всего этого нужно предоставить теоретический материал, который понадобится для понимания работы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h2&gt;
+&lt;p&gt;На этом этапе нужно описывать все шаги выполнения лабораторной работы. Рассказываете, как выполнили ту или иную задачу и предоставляете скриншоты (рисунки/фотографии). В тексте обязательно нужно указать ссылки на скриншоты, а сами скриншоты нужно подписать.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
+&lt;p&gt;В конце обязательно нужно сделать вывод по проделанной работе. Надо сказать, что было проделано, какие результаты получились и что нового удалось узнать.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Markdown</title>
