@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,12 +13,12 @@
     </image>
     
     <item>
-      <title>Report</title>
-      <link>https://example.com/post/otchet/</link>
-      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/otchet/</guid>
-      <description>&lt;h2 id=&#34;как-оформить-титульный-лист&#34;&gt;Как оформить титульный лист&lt;/h2&gt;
-&lt;p&gt;На титульном листе должно быть указано, какой тип работы вы выполняете и какой этап. Также нужно указать дисциплину, по которой вы делает работу. В самом конце указываете свое имя, как автора работы.&lt;/p&gt;
+      <title>Languages of scientific programming</title>
+      <link>https://example.com/post/languages-of-scientific-programming/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/languages-of-scientific-programming/</guid>
+      <description>&lt;h2 id=&#34;main-scientific-programming-languages&#34;&gt;Main scientific programming languages&lt;/h2&gt;
+&lt;p&gt;Usually scientists write computational code in C++, and then turn it into Python code. This approach is outdated: it is very difficult to maintain a large code base in Python, and here the size of projects grows on the side of code users - scientists. That is why such systems are falling apart, and for the last five years engineers and scientists have been looking for more flexible and simpler alternatives.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -40,8 +40,6 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;цель-работы-задание-и-теоретическое-введение&#34;&gt;Цель работы, задание, и теоретическое введение&lt;/h2&gt;
-&lt;p&gt;После оформления титульного листа нужно предоставить всю необходимую информацию о работе. Отдельным пунктом нужно указать цель работы. Так же нужно указать задания, которые будут выполнены по ходу работы. После всего этого нужно предоставить теоретический материал, который понадобится для понимания работы.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -63,8 +61,151 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h2&gt;
-&lt;p&gt;На этом этапе нужно описывать все шаги выполнения лабораторной работы. Рассказываете, как выполнили ту или иную задачу и предоставляете скриншоты (рисунки/фотографии). В тексте обязательно нужно указать ссылки на скриншоты, а сами скриншоты нужно подписать.&lt;/p&gt;
+&lt;h2 id=&#34;other-scientific-programming-languages&#34;&gt;Other scientific programming languages&lt;/h2&gt;
+&lt;p&gt;In addition to Python, various fields of science write or have tried to write in other languages.&lt;/p&gt;
+&lt;p&gt;R. It is used in statistics. It&amp;rsquo;s a highly specialized language that&amp;rsquo;s great for statistical problems. But often we not only need to get the data but we need to make a web service so that the user has access to this data. Writing it in R is not an easy task.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Julia. It&amp;rsquo;s a pretty interesting language with a lot of design features. Try it if you lack the speed or flexibility of Python. Although Julia has a drawback too: its toolkit is still unstable.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Swift. They tried to make a universal language out of Swift too, but it never got beyond iOS. And then Kotlin came along, which strongly resembles Swift in syntax, but is suitable for a wider range of tasks and allows you to work with libraries from Java, JavaScript and C.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Java. Java is a cool language that is often unfairly berated. It was created for Enterprise, so there&amp;rsquo;s an overextended &amp;ldquo;ceremony&amp;rdquo; there: you have to write a lot of extra code to build a simple application. Yes, this simplifies support and improves stability of the application, but it makes the programming process much more complicated.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Kotlin. Kotlin has all the advantages of Java but relieves the programmer of a good half of the &amp;ldquo;ceremonies&amp;rdquo;, and therefore has great promise.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./7.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>https://example.com/post/otchet/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/otchet/</guid>
+      <description>&lt;h2 id=&#34;how-to-make-a-cover-page&#34;&gt;How to make a cover page&lt;/h2&gt;
+&lt;p&gt;The title page should state what type of work you are doing and what stage. You should also indicate the discipline in which you are doing the work. At the very end, include your name as the author of the work.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;purpose-of-the-paper-the-assignment-and-a-theoretical-introduction&#34;&gt;Purpose of the paper, the assignment, and a theoretical introduction&lt;/h2&gt;
+&lt;p&gt;After the title page, you need to provide all the necessary information about the work. A separate paragraph should specify the purpose of the work. It is also necessary to specify the tasks that will be performed on the course of the work. After all that you need to provide theoretical material that will be needed to understand the work.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -86,8 +227,31 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
-&lt;p&gt;В конце обязательно нужно сделать вывод по проделанной работе. Надо сказать, что было проделано, какие результаты получились и что нового удалось узнать.&lt;/p&gt;
+&lt;h2 id=&#34;performing-the-lab-work&#34;&gt;Performing the lab work.&lt;/h2&gt;
+&lt;p&gt;At this point, you should describe all of the steps of completing the lab work. Describe how you performed this or that task and provide screenshots (pictures/photos). In the text you must specify the links to the screenshots, and the screenshots must be signed.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion.&lt;/h2&gt;
+&lt;p&gt;At the end you should make a conclusion about the work done. It should say what was done, what results were obtained and what new things were learned.&lt;/p&gt;
 </description>
     </item>
     
@@ -97,17 +261,37 @@
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/my_week.3/</guid>
       <description>&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
-&lt;p&gt;Неделя началась с двух лекций по основам программирования и математической логике. В этот день я лег спать в 4 часа утра, поэтому на лекциях я присутствовал формально. Ничего не усвоил, но это не страшно. И так смогу все понять.&lt;/p&gt;
+&lt;p&gt;The week began with two lectures on basic programming and mathematical logic. I went to bed at 4 am that day, so I attended the lectures formally. I didn&amp;rsquo;t learn anything, but that&amp;rsquo;s okay. I could figure it out that way.&lt;/p&gt;
 &lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
-&lt;p&gt;Вторник получился продуктивным. Я проспал пары, но это не помешало сделать мне очень много дел. Ставлю лайк таким дням.&lt;/p&gt;
+&lt;p&gt;Tuesday was productive. I slept through classes, but that didn&amp;rsquo;t stop me from getting a lot done. I&amp;rsquo;ll give those days a kudos.&lt;/p&gt;
 &lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
-&lt;p&gt;Сегодняшний день. Делаю индивидуальный проект сегодня так как в субботу день рождения у брата. Сегодня был коллоквиум по аналитической геометрии, он прошел прекрасно. Сдал на 10 из 10. На сегодня еще много планов, так что день тоже обещает быть продуктивным.&lt;/p&gt;
+&lt;p&gt;Today&amp;rsquo;s day. Doing an individual project today since Saturday is my brother&amp;rsquo;s birthday. Had analytic geometry colloquium today and it went great. I got a 10 out of 10. I have a lot of plans for today, so it promises to be a productive day as well.&lt;/p&gt;
 &lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
-&lt;p&gt;Четверг наверное будет, как четверг. Ничего не могу сказать об этом дне.&lt;/p&gt;
+&lt;p&gt;Thursday will probably be like Thursday. Can&amp;rsquo;t say anything about the day.&lt;/p&gt;
 &lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
-&lt;p&gt;Пятница это день, когда мы сидим в университете до 19:20 на английском. Это стало не так уж и сложно, потому что на улице поздно темнеет и прекрасная погода. И нет, я не уеду во Владимир, потому что в субботу история, вечером буду готовить доклад.&lt;/p&gt;
+&lt;p&gt;Friday is the day we sit at the university until 7:20 p.m. in English. It&amp;rsquo;s become a no-brainer because it&amp;rsquo;s getting late dark outside and the weather is beautiful. And no, I&amp;rsquo;m not going away to Vladimir, because Saturday is history, I&amp;rsquo;ll be preparing a report in the evening.&lt;/p&gt;
 &lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
-&lt;p&gt;С Днем рождения братишка!!! Человеку исполняется 19 лет. Надеюсь вы присоединитесь к моим поздравлениям. План на день: сходить на историю, рассказать первым доклад, побежать на поезд, и как можно скорее приехать во Владимир на день рождения. Вечер будет прекрасен&lt;/p&gt;
+&lt;p&gt;Happy Birthday bro!!! The man is turning 19 years old. I hope you will join me in congratulating him. Plan for the day: go to the story, tell the first report, run to the train, and get to Vladimir as soon as possible for his birthday. The evening will be beautiful.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как прошла моя неделя 4.0</title>
+      <link>https://example.com/post/my_week.4/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my_week.4/</guid>
+      <description>&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;This week was extremely busy because the May holidays came. I spent Monday in St. Petersburg. There are no distance couples today, so I just relaxed and walked around St. Petersburg.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday.&lt;/h2&gt;
+&lt;p&gt;Tuesday was the 9th of May. Happy Holidays to all! Also spent it in St. Petersburg. I slept through all the parades, but had a good walk, went to Lakhta center and visited an amusement park near it. It had this amazing roller coaster. I was happy with it, but it cost a lot of money.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;I went back to Moscow, but I slept through my classes. But I had a good time in the co-working room and did a lot of useful things. Didn&amp;rsquo;t waste the day.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;Thursday was just like Thursday. Everything is business as usual. Couples in the morning, couples in the afternoon, and co-working in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;There&amp;rsquo;s always a lot of English on Friday, but it doesn&amp;rsquo;t seem to discourage it. On the contrary, in fact. I like the language, although I don&amp;rsquo;t know it perfectly. There&amp;rsquo;s a lot to strive for. Going home in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;Saturday was also an unremarkable Saturday. I did my homework all day and am still doing it at the moment.&lt;/p&gt;
 </description>
     </item>
     
@@ -116,50 +300,50 @@
       <link>https://example.com/post/markdown/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/markdown/</guid>
-      <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
-&lt;p&gt;Markdown — язык текстовой разметки, созданный писателем и блогером Джоном Грубером. Он предназначен для создания красиво оформленных текстов в обычных файлах формата TXT. Вам не нужны громоздкие процессоры вроде Word или Pages, чтобы создавать документы с жирным или курсивным начертанием, цитатами, ссылками и даже таблицами. Достаточно запомнить простые правила Markdown, и можно писать хоть в «Блокноте». Хотя специализированные Markdown-редакторы, конечно, намного удобнее.&lt;/p&gt;
-&lt;h2 id=&#34;преимущества-markdown&#34;&gt;Преимущества Markdown&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h2&gt;
+&lt;p&gt;Markdown is a text markup language created by writer and blogger John Gruber. It is designed to create beautifully formatted text in ordinary TXT files. You don&amp;rsquo;t need a cumbersome word processor like Word or Pages to create documents with bold or italic type, quotes, links, and even tables. All you need to do is memorize the simple rules of Markdown and you can even write in Notepad. Using a dedicated Markdown editor is a great advantage, of course.&lt;/p&gt;
+&lt;h2 id=&#34;markdown-advantages&#34;&gt;Markdown advantages&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Универсальность&lt;/li&gt;
+&lt;li&gt;Universality&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Документы, написанные с использованием синтаксиса Markdown, представляют собой обычные текстовые файлы TXT. Их можно открыть на любой платформе и в любом редакторе. Этим они выгодно отличаются от файлов, созданных в текстовых процессорах. Пробовали открыть документ из Apple Pages в Word?&lt;/p&gt;
+&lt;p&gt;Documents written using the Markdown syntax are plain TXT files. They can be opened on any platform and in any editor. This makes them different from text processor files. Ever tried opening an Apple Pages document in Word?&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Простота&lt;/li&gt;
+&lt;li&gt;Simplicity&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Markdown настолько прост, что его за 10 минут смогут освоить даже те, кто до этого не слышал про все эти ваши Latex и HTML. Решётки для подзаголовков, звёздочки для выделения, тире для списков. Проще быть не может.&lt;/p&gt;
+&lt;p&gt;Markdown is so easy that even people who haven&amp;rsquo;t heard of Latex and HTML can learn it in 10 minutes. Grids for subheadings, asterisks for highlighting, dashes for lists. It couldn&amp;rsquo;t be easier.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Большой выбор инструментов&lt;/li&gt;
+&lt;li&gt;Large selection of tools&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Редакторов для работы с документами Markdown очень, очень много. Есть и онлайновые, и мобильные, и настольные инструменты. Есть монструозный Atom, красивые и минималистичные ghostwriter и iA Writer, Vim для гиков и Ulysses для профессиональных писателей. Выбирай не хочу.&lt;/p&gt;
+&lt;p&gt;There are many, many editors for working with Markdown documents. There are online, mobile, and desktop tools. There&amp;rsquo;s the monster Atom, the beautiful and minimalistic ghostwriter and iA Writer, Vim for geeks and Ulysses for professional writers. Take your pick.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Конвертируемость&lt;/li&gt;
+&lt;li&gt;Convertibility&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Документы Markdown легко экспортировать в любые форматы: PDF, DOC, ODT. При этом их форматирование остаётся неизменным.&lt;/p&gt;
-&lt;h2 id=&#34;недостатки-markdown&#34;&gt;Недостатки Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown documents can be easily exported in any format such as PDF, DOC and ODT. The formatting is always the same.&lt;/p&gt;
+&lt;h2 id=&#34;disadvantages-of-markdown&#34;&gt;Disadvantages of Markdown&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Ограниченность форматирования&lt;/li&gt;
+&lt;li&gt;Limited formatting&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Так как документы Markdown представляют собой просто текстовые файлы, красивых шрифтов в них не применишь. Всё-таки это скорее инструмент для написания черновиков, чем для полноценной вёрстки.&lt;/p&gt;
+&lt;p&gt;Because Markdown documents are just text files, you can&amp;rsquo;t use fonts to beautify them. It is, after all, more of a drafting tool than a full-fledged typesetting tool.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Строгие правила&lt;/li&gt;
+&lt;li&gt;Strict rules&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;В Markdown текст оформляется посредством служебных символов. Один лишний знак * или #, и форматирование изменится. Так что при наборе текстов в Markdown придётся быть внимательным.&lt;/p&gt;
-&lt;h2 id=&#34;базовый-синтаксис&#34;&gt;Базовый синтаксис&lt;/h2&gt;
+&lt;p&gt;Markdown defines text as appearing in special characters. One extra * or #, and the formatting changes. So you have to be careful when you type in Markdown.&lt;/p&gt;
+&lt;h2 id=&#34;basic-syntax&#34;&gt;Basic syntax&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Тексты в Markdown оформляются посредством специальных символов, вставляемых перед или после слов и фраз. Вот самые простые правила, которые работают во всех редакторах.&lt;/p&gt;
+&lt;p&gt;Markdown texts are formed using special characters either before or after words and phrases. The following are the most basic rules which will work in all Markdown authors.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Заголовки&lt;/p&gt;
+&lt;p&gt;Headings&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Делать заголовки в Markdown чрезвычайно просто. Всё, что вам нужно запомнить, — символ #, он же решётка, он же хеш. Уровень заголовка определяется количеством решёток в нём, всего их может быть шесть. Выглядит это так:&lt;/p&gt;
-&lt;p&gt;&amp;lsquo;# Заголовок H1&amp;rsquo;
-&amp;lsquo;## Заголовок H2&amp;rsquo;
-&amp;lsquo;### Заголовок H3&amp;rsquo;
-&amp;lsquo;#### Заголовок H4&amp;rsquo;
-&amp;lsquo;##### Заголовок H5&amp;rsquo;
-&amp;lsquo;###### Заголовок H6&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Headings in Markdown are incredibly easy to use. All you need to remember is the #, aka hash, symbol. The header level is determined by the number of grids in it, and there can be six in total. It looks like this:&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;## Header H1&amp;rsquo;.&lt;/p&gt;
+&lt;h2 id=&#34;header-h2&#34;&gt;Header H2&#39;.&lt;/h2&gt;
+&lt;p&gt;&amp;lsquo;### Header H3&amp;rsquo;.
+&amp;lsquo;#### Header H4&amp;rsquo;
+&amp;lsquo;##### Header H5&amp;rsquo;
+&amp;lsquo;###### Header H6&amp;rsquo;&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -182,12 +366,14 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Текст&lt;/li&gt;
+&lt;li&gt;Text&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Помимо заголовков, Markdown поддерживает и простое форматирование текста. Его можно сделать курсивным или жирным при помощи звёздочек и подчёркиваний:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Курсив&lt;/em&gt; и &lt;em&gt;Курсив&lt;/em&gt;
-&lt;strong&gt;Жирный текст&lt;/strong&gt; и &lt;strong&gt;Жирный текст&lt;/strong&gt;
-&lt;em&gt;&lt;strong&gt;Жирный и курсивный текст&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In addition to headings, Markdown also supports simple text formatting. It can be italicized or bolded with asterisks and underscores:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Italic* and _Cursive
+&lt;strong&gt;Bold text&lt;/strong&gt; and _Bold text
+&lt;em&gt;&lt;strong&gt;Bold and italic text&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;
 
 
@@ -210,12 +396,40 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Цитаты&lt;/li&gt;
+&lt;li&gt;Quotes.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Иногда какой-то абзац нужно выделить как цитату. В этом случае воспользуйтесь знаком &amp;gt;. Его необходимо проставлять перед каждой строчкой цитаты.&lt;/p&gt;
+&lt;p&gt;Sometimes a paragraph needs to be highlighted as a quote. In this case, use the &amp;gt; sign. It must be placed before each line of the quote.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bold text&lt;/strong&gt; and _Bold text
+&lt;strong&gt;Bold text&lt;/strong&gt; and _Bold text
+&lt;em&gt;&lt;strong&gt;Bold and italic text&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quotes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sometimes a paragraph needs to be highlighted as a quote. In this case, use the &amp;gt; sign. It must be placed before each line of the quote.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Очень глубокомысленная цитата. Пожалуйста, прочтите её внимательно.&lt;/p&gt;
-&lt;p&gt;Оскар Уайльд&lt;/p&gt;
+&lt;p&gt;A very profound quote. Please read it carefully.&lt;/p&gt;
+&lt;p&gt;Oscar Wilde&amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -226,16 +440,35 @@
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/my_week.2/</guid>
       <description>&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
-&lt;p&gt;неделя началась так, как начинается обычная университетская неделя. Я еле проснулся, потому что вчера (сегодня)  сидел до 4 утра, делая дз и параллельно смотря youtube. Начались дистанционные лекции, которые я ОЧЕНЬ внимательно прослушал. После этого мне предстояло поехать в Москву, так как завтра пары очные, а я нахожусь дома, во Владимире.&lt;/p&gt;
+&lt;p&gt;The week started the way a normal university week starts. I barely woke up because yesterday (today) I sat up until 4 am doing my homework and watching youtube at the same time. The distance lectures started, which I listened to VERY carefully. After that I had to go to Moscow, because tomorrow are full-time classes, and I am at home, in Vladimir.&lt;/p&gt;
 &lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
-&lt;p&gt;Вторник выдался ничем не примечательный. Было всего две пары: мат анализ и комп. алгебра. Из интересного то, что у нас поменялся преподаватель по мат анализу. Снова сменилась БРС, хорошо что к лучшему (для меня).&lt;/p&gt;
+&lt;p&gt;Tuesday was an unremarkable day. There were only two classes: calculus and computer algebra. The interesting thing is that we had a new math analysis instructor. The BRS changed again, which is good (for me).&lt;/p&gt;
 &lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
-&lt;p&gt;В среду у нас только математика. выдали результаты кр по аналитической геометрии. Если говорить коротко, то я пойду переписывать. Следующей парой была мат логика. Снова кр. В этот раз я был готов лучше и решил все, надеюсь, что правильно. Также я решил заняться, наконец, спортом и побегал в парке 40 минут.&lt;/p&gt;
+&lt;p&gt;On Wednesday we have only math. we got the results of the test in analytical geometry. To make a long story short, I&amp;rsquo;m off to rewrite. The next pair was mat logic. Cr again. This time I was better prepared and solved everything, hopefully correctly. I also decided to finally get some exercise and ran in the park for 40 minutes.&lt;/p&gt;
 &lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
-&lt;p&gt;В этот день нужно было сдать большое дз по технологиям программирования. Его я почти сделал, но все равно придется доделывать и сдавать на следующей неделе. Потом было две лекции, я пытался не спать и у меня почти получилось (на ангеме точно).&lt;/p&gt;
+&lt;p&gt;On this day I had to do a big homework on programming technologies. I almost did it, but I still had to finish it and hand it in next week. Then I had two lectures, I tried to stay awake and I almost made it (on angem for sure).&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday.&lt;/h2&gt;
+&lt;p&gt;English Day is the name of Friday. It is because we have 3 classes in this subject today. Often near the end, I&amp;rsquo;ll do anything to get them over with. It&amp;rsquo;s worth noting that this time the class went a lot easier than usual. Probably because it got darker later in the day. At the end of the day I drove home to Vladimir.&lt;/p&gt;
+&lt;p&gt;This concludes the description of my week.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как прошла моя неделя 5.0</title>
+      <link>https://example.com/post/my_week.5/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my_week.5/</guid>
+      <description>&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;I was in Moscow on Monday. Nothing remarkable happened, I studied all day.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;Tuesday was supposed to be a math analysis quiz, but it wasn&amp;rsquo;t, so we got lucky. We got our results in Mathematical Logic, seems ok but could have been better.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday.&lt;/h2&gt;
+&lt;p&gt;Wednesday had only one event, a quiz on analytic geometry. Wrote it well.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;Thursday was also standard. I was able to understand programming techniques, which is good. Went to a lecture on calculus and spent the rest of the day in the co-working room.&lt;/p&gt;
 &lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
-&lt;p&gt;День английского языка - название пятницы. Это так, потому что у нас сегодня 3 пары по этому предмету. Зачастую под конец уже согласен на все, лишь бы они закончились. Стоит отметить, что в этот раз занятие прошло намного легче, чем обычно. Вероятно, потому что на улице стало позже темнеть. В конце дня я поехал домой, во Владимир.&lt;/p&gt;
-&lt;p&gt;На этом описание моей недели закончится.&lt;/p&gt;
+&lt;p&gt;English day again. Only went to it. Three classes went well and at the end of the last one I handed in my essay okay. After that I went to Vladimir.&lt;/p&gt;
+&lt;p&gt;This concludes the description of my week.&lt;/p&gt;
 </description>
     </item>
     
@@ -245,16 +478,16 @@
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/my_week/</guid>
       <description>&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
-&lt;p&gt;В понедельник была всего одна пара, на которой я рассказал свой доклад. За него мне так и не выставили оценку.День продолжился в долгой подготовке к предстоящей контрольной работе по математическому анализу. Нужно будет решить несколько интегралов.&lt;/p&gt;
+&lt;p&gt;There was only one class on Monday, where I gave my report. I never got a grade on it.The day continued with a long preparation for the upcoming math analysis quiz. I would have to solve some integrals.&lt;/p&gt;
 &lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
-&lt;p&gt;День контрольной работы настал и я чувствовал себя достаточно готовым, чтобы написать на удовлетворяющий меня балл. В итоге смог написать только список табличных интегралов. В основной части начал с самого сложного и в итоге не успел решить легкие задания, потому что осталось 5 минут (спойлер: сложное задания я решил неправильно). Дорогой дневник… Мне не передать словами ту боль, которую я сегодня испытал.&lt;/p&gt;
+&lt;p&gt;The day of the test came and I felt ready enough to write a satisfying score. In the end I was only able to write a list of table integrals. In the main part I started with the hardest and ended up not having enough time to solve the easy assignments, because there were 5 minutes left (spoiler: I solved the hard assignment wrong). Dear diary&amp;hellip; I can&amp;rsquo;t put into words the pain I felt today.&lt;/p&gt;
 &lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
-&lt;p&gt;Пришли результаты по контрольной работе, я получил 0 баллов). Следующие две недели готовимся к переписыванию. В остальном нормальный день.&lt;/p&gt;
+&lt;p&gt;The results came back on the test paper, I got a 0). For the next two weeks getting ready to rewrite. Otherwise, a normal day.&lt;/p&gt;
 &lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
-&lt;p&gt;Из интересного только то, что я смог сдать задание по технологиям программирования на максимальный балл, но ни я, ни преподаватель не поняли, каким образом работает один кусок моего кода. Есть несколько гипотез, на следующей неделе станет все понятно. Надеюсь, что из-за этого я не потеряю баллы.&lt;/p&gt;
+&lt;p&gt;The only interesting thing was that I was able to pass my programming technology assignment with a maximum score, but neither I nor the instructor understood how one piece of my code worked. There are a few hypotheses, next week it will become clearer. I hope I don&amp;rsquo;t lose points because of this.&lt;/p&gt;
 &lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
-&lt;p&gt;Этот день примечателен тем, что я наконец-то поеду домой во Владимир, где не был уже три недели. Там буду отмечать день рождения моей мамы. Конец недели будет прекрасным.&lt;/p&gt;
-&lt;p&gt;На этом описание моей недели закончится.&lt;/p&gt;
+&lt;p&gt;This day is notable because I will finally go home to Vladimir, where I have not been for three weeks. I&amp;rsquo;ll be there to celebrate my mother&amp;rsquo;s birthday. The end of the week will be beautiful.&lt;/p&gt;
+&lt;p&gt;This concludes the description of my week.&lt;/p&gt;
 </description>
     </item>
     
@@ -263,10 +496,10 @@
       <link>https://example.com/post/git_versions/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/git_versions/</guid>
-      <description>&lt;h2 id=&#34;что-такое-система-контроля-версий&#34;&gt;Что такое система контроля версий?&lt;/h2&gt;
-&lt;p&gt;Система контроля версий (Version Control System, VCS) представляет собой программное обеспечение, которое позволяет отслеживать изменения в документах, при необходимости производить их откат, определять, кто и когда внес исправления и т.п. В статье рассмотрены виды VCS, принципы их работы, а также приведены примеры программных продуктов. Системы контроля версий можно разделить на две группы: распределенные и централизованные.&lt;/p&gt;
-&lt;h2 id=&#34;централизованные-системы-контроля-версий&#34;&gt;Централизованные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Централизованные системы контроля версий представляют собой приложения типа клиент-сервер, когда репозиторий проекта существует в единственном экземпляре и хранится на сервере. Доступ к нему осуществлялся через специальное клиентское приложение. В качестве примеров таких программных продуктов можно привести CVS, Subversion.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;what-is-a-version-control-system&#34;&gt;What is a version control system?&lt;/h2&gt;
+&lt;p&gt;Version Control System (VCS) is a software that allows you to track changes in documents, if necessary, roll them back, determine who and when made corrections, etc. The article discusses the types of VCS, the principles of their work, as well as examples of software products. Version control systems can be divided into two groups: distributed and centralized.&lt;/p&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized version control systems&lt;/h2&gt;
+&lt;p&gt;Centralized version control systems are client-server applications when the project repository exists in a single instance and is stored on the server. Access to it was carried out through a special client application. Examples of such software products include CVS, Subversion.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -288,8 +521,8 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;распределенные-системы-контроля-версий&#34;&gt;Распределенные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Распределенные системы контроля версий (Distributed Version Control System, DVCS) позволяют хранить репозиторий (его копию) у каждого разработчика, работающего с данной системой. При этом можно выделить центральный репозиторий (условно), в который будут отправляться изменения из локальных и, с ним же эти локальные репозитории будут синхронизироваться. При работе с такой системой, пользователи периодически синхронизируют свои локальные репозитории с центральным и работают непосредственно со своей локальной копией. После внесения достаточного количества изменений в локальную копию они (изменения) отправляются на сервер. При этом сервер, чаще всего, выбирается условно, т.к. в большинстве DVCS нет такого понятия как “выделенный сервер с центральным репозиторием”. Большое преимущество такого подхода заключается в автономии разработчика при работе над проектом, гибкости общей системы и повышение надежности, благодаря тому, что каждый разработчик имеет локальную копию центрального репозитория. Две наиболее известные DVCS – это Git и Mercurial.&lt;/p&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed version control systems&lt;/h2&gt;
+&lt;p&gt;Distributed Version Control Systems (DVCS) allow each developer working with the system to keep a copy of the repository. In this case it is possible to allocate a central repository (conventionally), to which changes from local repositories will be sent, and with it, these local repositories will be synchronized. With such a system, users periodically synchronize their local repositories with the central repository, and work directly with their local copy. Once enough changes have been made to the local copy, they (the changes) are sent to the server. The server is usually chosen conventionally since in most DVCS there is no such a thing as a &amp;ldquo;dedicated server with central repository&amp;rdquo;. The big advantage of this approach is developer autonomy when working on the project, the flexibility of the overall system and increased reliability due to the fact that each developer has a local copy of the central repository. Two of the best known DVCSs are Git and Mercurial.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -311,7 +544,7 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Git – распределенная система контроля версий, разработанная Линусом Торвальдсем для работы над ядром операционной системы Linux. Среди крупных проектов, в рамках которых используется git, можно выделить ядро Linux, Qt, Android. Git свободен и распространяется под лицензией GNU GPL 2 и, также как Mercurial, доступен практически на всех операционных системах. По своим базовым возможностям git схож с Mercurial (и другими DVCS), но благодаря ряду достоинств (высокая скорость работы, возможность интеграции с другими VCS, удобный интерфейс) и очень активному сообществу, сформировавшемуся вокруг этой системы, git вышел в лидеры рынка распределенных систем контроля версий. Необходимо отметить, что несмотря на большую популярность таких систем как git, крупные корпорации, подобные Google, используют свои VCS.&lt;/p&gt;
+&lt;p&gt;Git is a distributed version control system developed by Linus Torvalds to work on the Linux operating system kernel. Major projects that use git include the Linux kernel, Qt, and Android. Git is free and distributed under the GNU GPL 2 license and, like Mercurial, is available on almost all operating systems. Its basic features are similar to Mercurial (and other DVCS), but thanks to some advantages (high speed, ability to integrate with other VCS, user-friendly interface) and a very active community that has been formed around the system, git became a leader in distributed version control systems. It should be noted that despite the great popularity of systems like git, large corporations like Google use their own VCS.&lt;/p&gt;
 </description>
     </item>
     
@@ -419,7 +652,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-817294356&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-892416357&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -429,7 +662,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-817294356&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-892416357&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -627,44 +860,8 @@ Crash --&gt; [*]
   
     
     
-    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
+    &lt;tr&gt;  &lt;/tr&gt;
   
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
   
   
     &lt;caption&gt;Table 1: My results&lt;/caption&gt;

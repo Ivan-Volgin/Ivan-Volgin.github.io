@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | Academic</title>
+    <link>https://example.com/ru/tag/markdown/</link>
+      <atom:link href="https://example.com/ru/tag/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Markdown</title>
+      <link>https://example.com/ru/tag/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Написание отчетов</title>
+      <link>https://example.com/ru/post/otchet/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/otchet/</guid>
+      <description>&lt;h2 id=&#34;как-оформить-титульный-лист&#34;&gt;Как оформить титульный лист&lt;/h2&gt;
+&lt;p&gt;На титульном листе должно быть указано, какой тип работы вы выполняете и какой этап. Также нужно указать дисциплину, по которой вы делает работу. В самом конце указываете свое имя, как автора работы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;цель-работы-задание-и-теоретическое-введение&#34;&gt;Цель работы, задание, и теоретическое введение&lt;/h2&gt;
+&lt;p&gt;После оформления титульного листа нужно предоставить всю необходимую информацию о работе. Отдельным пунктом нужно указать цель работы. Так же нужно указать задания, которые будут выполнены по ходу работы. После всего этого нужно предоставить теоретический материал, который понадобится для понимания работы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h2&gt;
+&lt;p&gt;На этом этапе нужно описывать все шаги выполнения лабораторной работы. Рассказываете, как выполнили ту или иную задачу и предоставляете скриншоты (рисунки/фотографии). В тексте обязательно нужно указать ссылки на скриншоты, а сами скриншоты нужно подписать.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
+&lt;p&gt;В конце обязательно нужно сделать вывод по проделанной работе. Надо сказать, что было проделано, какие результаты получились и что нового удалось узнать.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Маркдаун</title>
+      <link>https://example.com/ru/post/markdown/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
+&lt;p&gt;Markdown — язык текстовой разметки, созданный писателем и блогером Джоном Грубером. Он предназначен для создания красиво оформленных текстов в обычных файлах формата TXT. Вам не нужны громоздкие процессоры вроде Word или Pages, чтобы создавать документы с жирным или курсивным начертанием, цитатами, ссылками и даже таблицами. Достаточно запомнить простые правила Markdown, и можно писать хоть в «Блокноте». Хотя специализированные Markdown-редакторы, конечно, намного удобнее.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-markdown&#34;&gt;Преимущества Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Универсальность&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Документы, написанные с использованием синтаксиса Markdown, представляют собой обычные текстовые файлы TXT. Их можно открыть на любой платформе и в любом редакторе. Этим они выгодно отличаются от файлов, созданных в текстовых процессорах. Пробовали открыть документ из Apple Pages в Word?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Простота&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Markdown настолько прост, что его за 10 минут смогут освоить даже те, кто до этого не слышал про все эти ваши Latex и HTML. Решётки для подзаголовков, звёздочки для выделения, тире для списков. Проще быть не может.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Большой выбор инструментов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Редакторов для работы с документами Markdown очень, очень много. Есть и онлайновые, и мобильные, и настольные инструменты. Есть монструозный Atom, красивые и минималистичные ghostwriter и iA Writer, Vim для гиков и Ulysses для профессиональных писателей. Выбирай не хочу.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Конвертируемость&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Документы Markdown легко экспортировать в любые форматы: PDF, DOC, ODT. При этом их форматирование остаётся неизменным.&lt;/p&gt;
+&lt;h2 id=&#34;недостатки-markdown&#34;&gt;Недостатки Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ограниченность форматирования&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Так как документы Markdown представляют собой просто текстовые файлы, красивых шрифтов в них не применишь. Всё-таки это скорее инструмент для написания черновиков, чем для полноценной вёрстки.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Строгие правила&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В Markdown текст оформляется посредством служебных символов. Один лишний знак * или #, и форматирование изменится. Так что при наборе текстов в Markdown придётся быть внимательным.&lt;/p&gt;
+&lt;h2 id=&#34;базовый-синтаксис&#34;&gt;Базовый синтаксис&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Тексты в Markdown оформляются посредством специальных символов, вставляемых перед или после слов и фраз. Вот самые простые правила, которые работают во всех редакторах.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Заголовки&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Делать заголовки в Markdown чрезвычайно просто. Всё, что вам нужно запомнить, — символ #, он же решётка, он же хеш. Уровень заголовка определяется количеством решёток в нём, всего их может быть шесть. Выглядит это так:&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;# Заголовок H1&amp;rsquo;
+&amp;lsquo;## Заголовок H2&amp;rsquo;
+&amp;lsquo;### Заголовок H3&amp;rsquo;
+&amp;lsquo;#### Заголовок H4&amp;rsquo;
+&amp;lsquo;##### Заголовок H5&amp;rsquo;
+&amp;lsquo;###### Заголовок H6&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Текст&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Помимо заголовков, Markdown поддерживает и простое форматирование текста. Его можно сделать курсивным или жирным при помощи звёздочек и подчёркиваний:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Курсив&lt;/em&gt; и &lt;em&gt;Курсив&lt;/em&gt;
+&lt;strong&gt;Жирный текст&lt;/strong&gt; и &lt;strong&gt;Жирный текст&lt;/strong&gt;
+&lt;em&gt;&lt;strong&gt;Жирный и курсивный текст&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Цитаты&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Иногда какой-то абзац нужно выделить как цитату. В этом случае воспользуйтесь знаком &amp;gt;. Его необходимо проставлять перед каждой строчкой цитаты.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Очень глубокомысленная цитата. Пожалуйста, прочтите её внимательно.&lt;/p&gt;
+&lt;p&gt;Оскар Уайльд&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

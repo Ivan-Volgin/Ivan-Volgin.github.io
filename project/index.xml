@@ -5,12 +5,49 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://example.com/project/website/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/website/</guid>
+      <description>&lt;p&gt;Здесь я хочу рассказать о моем проекте, который я делаю в рамках университетского курса по дисциплине &amp;ldquo;Операционные системы&amp;rdquo;. Проект заключается в создании сайта, на котором вы сейчас и находитесь. Он является тренировочным, помогает нам освоить новые инструменты и получить знания по созданию сайтов. Мне кажется, что у меня получается довольно неплохо, и сайт выходит хорошим. В любом случае, это очень интересный опыт и я рад, что мне удалось его получить.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/website/image/1_hub6c49a833e19f9e9cbbb471d6bb0e876_120747_8bca86dd0d748d397f365b56eb1f73ff.webp 400w,
+               /project/website/image/1_hub6c49a833e19f9e9cbbb471d6bb0e876_120747_bafe427139354e4be261a0cc8bfcd3c9.webp 760w,
+               /project/website/image/1_hub6c49a833e19f9e9cbbb471d6bb0e876_120747_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/website/image/1_hub6c49a833e19f9e9cbbb471d6bb0e876_120747_8bca86dd0d748d397f365b56eb1f73ff.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;345&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Project</title>

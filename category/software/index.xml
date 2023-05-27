@@ -5,7 +5,7 @@
     <link>https://example.com/category/software/</link>
       <atom:link href="https://example.com/category/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Software</title>
@@ -13,12 +13,12 @@
     </image>
     
     <item>
-      <title>Report</title>
-      <link>https://example.com/post/otchet/</link>
-      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/otchet/</guid>
-      <description>&lt;h2 id=&#34;как-оформить-титульный-лист&#34;&gt;Как оформить титульный лист&lt;/h2&gt;
-&lt;p&gt;На титульном листе должно быть указано, какой тип работы вы выполняете и какой этап. Также нужно указать дисциплину, по которой вы делает работу. В самом конце указываете свое имя, как автора работы.&lt;/p&gt;
+      <title>Languages of scientific programming</title>
+      <link>https://example.com/post/languages-of-scientific-programming/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/languages-of-scientific-programming/</guid>
+      <description>&lt;h2 id=&#34;main-scientific-programming-languages&#34;&gt;Main scientific programming languages&lt;/h2&gt;
+&lt;p&gt;Usually scientists write computational code in C++, and then turn it into Python code. This approach is outdated: it is very difficult to maintain a large code base in Python, and here the size of projects grows on the side of code users - scientists. That is why such systems are falling apart, and for the last five years engineers and scientists have been looking for more flexible and simpler alternatives.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -40,8 +40,6 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;цель-работы-задание-и-теоретическое-введение&#34;&gt;Цель работы, задание, и теоретическое введение&lt;/h2&gt;
-&lt;p&gt;После оформления титульного листа нужно предоставить всю необходимую информацию о работе. Отдельным пунктом нужно указать цель работы. Так же нужно указать задания, которые будут выполнены по ходу работы. После всего этого нужно предоставить теоретический материал, который понадобится для понимания работы.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -63,8 +61,151 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h2&gt;
-&lt;p&gt;На этом этапе нужно описывать все шаги выполнения лабораторной работы. Рассказываете, как выполнили ту или иную задачу и предоставляете скриншоты (рисунки/фотографии). В тексте обязательно нужно указать ссылки на скриншоты, а сами скриншоты нужно подписать.&lt;/p&gt;
+&lt;h2 id=&#34;other-scientific-programming-languages&#34;&gt;Other scientific programming languages&lt;/h2&gt;
+&lt;p&gt;In addition to Python, various fields of science write or have tried to write in other languages.&lt;/p&gt;
+&lt;p&gt;R. It is used in statistics. It&amp;rsquo;s a highly specialized language that&amp;rsquo;s great for statistical problems. But often we not only need to get the data but we need to make a web service so that the user has access to this data. Writing it in R is not an easy task.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Julia. It&amp;rsquo;s a pretty interesting language with a lot of design features. Try it if you lack the speed or flexibility of Python. Although Julia has a drawback too: its toolkit is still unstable.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Swift. They tried to make a universal language out of Swift too, but it never got beyond iOS. And then Kotlin came along, which strongly resembles Swift in syntax, but is suitable for a wider range of tasks and allows you to work with libraries from Java, JavaScript and C.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Java. Java is a cool language that is often unfairly berated. It was created for Enterprise, so there&amp;rsquo;s an overextended &amp;ldquo;ceremony&amp;rdquo; there: you have to write a lot of extra code to build a simple application. Yes, this simplifies support and improves stability of the application, but it makes the programming process much more complicated.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Kotlin. Kotlin has all the advantages of Java but relieves the programmer of a good half of the &amp;ldquo;ceremonies&amp;rdquo;, and therefore has great promise.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./7.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>https://example.com/post/otchet/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/otchet/</guid>
+      <description>&lt;h2 id=&#34;how-to-make-a-cover-page&#34;&gt;How to make a cover page&lt;/h2&gt;
+&lt;p&gt;The title page should state what type of work you are doing and what stage. You should also indicate the discipline in which you are doing the work. At the very end, include your name as the author of the work.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;purpose-of-the-paper-the-assignment-and-a-theoretical-introduction&#34;&gt;Purpose of the paper, the assignment, and a theoretical introduction&lt;/h2&gt;
+&lt;p&gt;After the title page, you need to provide all the necessary information about the work. A separate paragraph should specify the purpose of the work. It is also necessary to specify the tasks that will be performed on the course of the work. After all that you need to provide theoretical material that will be needed to understand the work.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -86,8 +227,31 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
-&lt;p&gt;В конце обязательно нужно сделать вывод по проделанной работе. Надо сказать, что было проделано, какие результаты получились и что нового удалось узнать.&lt;/p&gt;
+&lt;h2 id=&#34;performing-the-lab-work&#34;&gt;Performing the lab work.&lt;/h2&gt;
+&lt;p&gt;At this point, you should describe all of the steps of completing the lab work. Describe how you performed this or that task and provide screenshots (pictures/photos). In the text you must specify the links to the screenshots, and the screenshots must be signed.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion.&lt;/h2&gt;
+&lt;p&gt;At the end you should make a conclusion about the work done. It should say what was done, what results were obtained and what new things were learned.&lt;/p&gt;
 </description>
     </item>
     
@@ -96,50 +260,50 @@
       <link>https://example.com/post/markdown/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/markdown/</guid>
-      <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
-&lt;p&gt;Markdown — язык текстовой разметки, созданный писателем и блогером Джоном Грубером. Он предназначен для создания красиво оформленных текстов в обычных файлах формата TXT. Вам не нужны громоздкие процессоры вроде Word или Pages, чтобы создавать документы с жирным или курсивным начертанием, цитатами, ссылками и даже таблицами. Достаточно запомнить простые правила Markdown, и можно писать хоть в «Блокноте». Хотя специализированные Markdown-редакторы, конечно, намного удобнее.&lt;/p&gt;
-&lt;h2 id=&#34;преимущества-markdown&#34;&gt;Преимущества Markdown&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h2&gt;
+&lt;p&gt;Markdown is a text markup language created by writer and blogger John Gruber. It is designed to create beautifully formatted text in ordinary TXT files. You don&amp;rsquo;t need a cumbersome word processor like Word or Pages to create documents with bold or italic type, quotes, links, and even tables. All you need to do is memorize the simple rules of Markdown and you can even write in Notepad. Using a dedicated Markdown editor is a great advantage, of course.&lt;/p&gt;
+&lt;h2 id=&#34;markdown-advantages&#34;&gt;Markdown advantages&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Универсальность&lt;/li&gt;
+&lt;li&gt;Universality&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Документы, написанные с использованием синтаксиса Markdown, представляют собой обычные текстовые файлы TXT. Их можно открыть на любой платформе и в любом редакторе. Этим они выгодно отличаются от файлов, созданных в текстовых процессорах. Пробовали открыть документ из Apple Pages в Word?&lt;/p&gt;
+&lt;p&gt;Documents written using the Markdown syntax are plain TXT files. They can be opened on any platform and in any editor. This makes them different from text processor files. Ever tried opening an Apple Pages document in Word?&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Простота&lt;/li&gt;
+&lt;li&gt;Simplicity&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Markdown настолько прост, что его за 10 минут смогут освоить даже те, кто до этого не слышал про все эти ваши Latex и HTML. Решётки для подзаголовков, звёздочки для выделения, тире для списков. Проще быть не может.&lt;/p&gt;
+&lt;p&gt;Markdown is so easy that even people who haven&amp;rsquo;t heard of Latex and HTML can learn it in 10 minutes. Grids for subheadings, asterisks for highlighting, dashes for lists. It couldn&amp;rsquo;t be easier.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Большой выбор инструментов&lt;/li&gt;
+&lt;li&gt;Large selection of tools&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Редакторов для работы с документами Markdown очень, очень много. Есть и онлайновые, и мобильные, и настольные инструменты. Есть монструозный Atom, красивые и минималистичные ghostwriter и iA Writer, Vim для гиков и Ulysses для профессиональных писателей. Выбирай не хочу.&lt;/p&gt;
+&lt;p&gt;There are many, many editors for working with Markdown documents. There are online, mobile, and desktop tools. There&amp;rsquo;s the monster Atom, the beautiful and minimalistic ghostwriter and iA Writer, Vim for geeks and Ulysses for professional writers. Take your pick.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Конвертируемость&lt;/li&gt;
+&lt;li&gt;Convertibility&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Документы Markdown легко экспортировать в любые форматы: PDF, DOC, ODT. При этом их форматирование остаётся неизменным.&lt;/p&gt;
-&lt;h2 id=&#34;недостатки-markdown&#34;&gt;Недостатки Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown documents can be easily exported in any format such as PDF, DOC and ODT. The formatting is always the same.&lt;/p&gt;
+&lt;h2 id=&#34;disadvantages-of-markdown&#34;&gt;Disadvantages of Markdown&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Ограниченность форматирования&lt;/li&gt;
+&lt;li&gt;Limited formatting&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Так как документы Markdown представляют собой просто текстовые файлы, красивых шрифтов в них не применишь. Всё-таки это скорее инструмент для написания черновиков, чем для полноценной вёрстки.&lt;/p&gt;
+&lt;p&gt;Because Markdown documents are just text files, you can&amp;rsquo;t use fonts to beautify them. It is, after all, more of a drafting tool than a full-fledged typesetting tool.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Строгие правила&lt;/li&gt;
+&lt;li&gt;Strict rules&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;В Markdown текст оформляется посредством служебных символов. Один лишний знак * или #, и форматирование изменится. Так что при наборе текстов в Markdown придётся быть внимательным.&lt;/p&gt;
-&lt;h2 id=&#34;базовый-синтаксис&#34;&gt;Базовый синтаксис&lt;/h2&gt;
+&lt;p&gt;Markdown defines text as appearing in special characters. One extra * or #, and the formatting changes. So you have to be careful when you type in Markdown.&lt;/p&gt;
+&lt;h2 id=&#34;basic-syntax&#34;&gt;Basic syntax&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Тексты в Markdown оформляются посредством специальных символов, вставляемых перед или после слов и фраз. Вот самые простые правила, которые работают во всех редакторах.&lt;/p&gt;
+&lt;p&gt;Markdown texts are formed using special characters either before or after words and phrases. The following are the most basic rules which will work in all Markdown authors.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Заголовки&lt;/p&gt;
+&lt;p&gt;Headings&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Делать заголовки в Markdown чрезвычайно просто. Всё, что вам нужно запомнить, — символ #, он же решётка, он же хеш. Уровень заголовка определяется количеством решёток в нём, всего их может быть шесть. Выглядит это так:&lt;/p&gt;
-&lt;p&gt;&amp;lsquo;# Заголовок H1&amp;rsquo;
-&amp;lsquo;## Заголовок H2&amp;rsquo;
-&amp;lsquo;### Заголовок H3&amp;rsquo;
-&amp;lsquo;#### Заголовок H4&amp;rsquo;
-&amp;lsquo;##### Заголовок H5&amp;rsquo;
-&amp;lsquo;###### Заголовок H6&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Headings in Markdown are incredibly easy to use. All you need to remember is the #, aka hash, symbol. The header level is determined by the number of grids in it, and there can be six in total. It looks like this:&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;## Header H1&amp;rsquo;.&lt;/p&gt;
+&lt;h2 id=&#34;header-h2&#34;&gt;Header H2&#39;.&lt;/h2&gt;
+&lt;p&gt;&amp;lsquo;### Header H3&amp;rsquo;.
+&amp;lsquo;#### Header H4&amp;rsquo;
+&amp;lsquo;##### Header H5&amp;rsquo;
+&amp;lsquo;###### Header H6&amp;rsquo;&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -162,12 +326,14 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Текст&lt;/li&gt;
+&lt;li&gt;Text&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Помимо заголовков, Markdown поддерживает и простое форматирование текста. Его можно сделать курсивным или жирным при помощи звёздочек и подчёркиваний:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Курсив&lt;/em&gt; и &lt;em&gt;Курсив&lt;/em&gt;
-&lt;strong&gt;Жирный текст&lt;/strong&gt; и &lt;strong&gt;Жирный текст&lt;/strong&gt;
-&lt;em&gt;&lt;strong&gt;Жирный и курсивный текст&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In addition to headings, Markdown also supports simple text formatting. It can be italicized or bolded with asterisks and underscores:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Italic* and _Cursive
+&lt;strong&gt;Bold text&lt;/strong&gt; and _Bold text
+&lt;em&gt;&lt;strong&gt;Bold and italic text&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;
 
 
@@ -190,12 +356,40 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Цитаты&lt;/li&gt;
+&lt;li&gt;Quotes.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Иногда какой-то абзац нужно выделить как цитату. В этом случае воспользуйтесь знаком &amp;gt;. Его необходимо проставлять перед каждой строчкой цитаты.&lt;/p&gt;
+&lt;p&gt;Sometimes a paragraph needs to be highlighted as a quote. In this case, use the &amp;gt; sign. It must be placed before each line of the quote.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bold text&lt;/strong&gt; and _Bold text
+&lt;strong&gt;Bold text&lt;/strong&gt; and _Bold text
+&lt;em&gt;&lt;strong&gt;Bold and italic text&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quotes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sometimes a paragraph needs to be highlighted as a quote. In this case, use the &amp;gt; sign. It must be placed before each line of the quote.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Очень глубокомысленная цитата. Пожалуйста, прочтите её внимательно.&lt;/p&gt;
-&lt;p&gt;Оскар Уайльд&lt;/p&gt;
+&lt;p&gt;A very profound quote. Please read it carefully.&lt;/p&gt;
+&lt;p&gt;Oscar Wilde&amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -205,10 +399,10 @@
       <link>https://example.com/post/git_versions/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/git_versions/</guid>
-      <description>&lt;h2 id=&#34;что-такое-система-контроля-версий&#34;&gt;Что такое система контроля версий?&lt;/h2&gt;
-&lt;p&gt;Система контроля версий (Version Control System, VCS) представляет собой программное обеспечение, которое позволяет отслеживать изменения в документах, при необходимости производить их откат, определять, кто и когда внес исправления и т.п. В статье рассмотрены виды VCS, принципы их работы, а также приведены примеры программных продуктов. Системы контроля версий можно разделить на две группы: распределенные и централизованные.&lt;/p&gt;
-&lt;h2 id=&#34;централизованные-системы-контроля-версий&#34;&gt;Централизованные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Централизованные системы контроля версий представляют собой приложения типа клиент-сервер, когда репозиторий проекта существует в единственном экземпляре и хранится на сервере. Доступ к нему осуществлялся через специальное клиентское приложение. В качестве примеров таких программных продуктов можно привести CVS, Subversion.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;what-is-a-version-control-system&#34;&gt;What is a version control system?&lt;/h2&gt;
+&lt;p&gt;Version Control System (VCS) is a software that allows you to track changes in documents, if necessary, roll them back, determine who and when made corrections, etc. The article discusses the types of VCS, the principles of their work, as well as examples of software products. Version control systems can be divided into two groups: distributed and centralized.&lt;/p&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized version control systems&lt;/h2&gt;
+&lt;p&gt;Centralized version control systems are client-server applications when the project repository exists in a single instance and is stored on the server. Access to it was carried out through a special client application. Examples of such software products include CVS, Subversion.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -230,8 +424,8 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;распределенные-системы-контроля-версий&#34;&gt;Распределенные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Распределенные системы контроля версий (Distributed Version Control System, DVCS) позволяют хранить репозиторий (его копию) у каждого разработчика, работающего с данной системой. При этом можно выделить центральный репозиторий (условно), в который будут отправляться изменения из локальных и, с ним же эти локальные репозитории будут синхронизироваться. При работе с такой системой, пользователи периодически синхронизируют свои локальные репозитории с центральным и работают непосредственно со своей локальной копией. После внесения достаточного количества изменений в локальную копию они (изменения) отправляются на сервер. При этом сервер, чаще всего, выбирается условно, т.к. в большинстве DVCS нет такого понятия как “выделенный сервер с центральным репозиторием”. Большое преимущество такого подхода заключается в автономии разработчика при работе над проектом, гибкости общей системы и повышение надежности, благодаря тому, что каждый разработчик имеет локальную копию центрального репозитория. Две наиболее известные DVCS – это Git и Mercurial.&lt;/p&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed version control systems&lt;/h2&gt;
+&lt;p&gt;Distributed Version Control Systems (DVCS) allow each developer working with the system to keep a copy of the repository. In this case it is possible to allocate a central repository (conventionally), to which changes from local repositories will be sent, and with it, these local repositories will be synchronized. With such a system, users periodically synchronize their local repositories with the central repository, and work directly with their local copy. Once enough changes have been made to the local copy, they (the changes) are sent to the server. The server is usually chosen conventionally since in most DVCS there is no such a thing as a &amp;ldquo;dedicated server with central repository&amp;rdquo;. The big advantage of this approach is developer autonomy when working on the project, the flexibility of the overall system and increased reliability due to the fact that each developer has a local copy of the central repository. Two of the best known DVCSs are Git and Mercurial.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -253,7 +447,7 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Git – распределенная система контроля версий, разработанная Линусом Торвальдсем для работы над ядром операционной системы Linux. Среди крупных проектов, в рамках которых используется git, можно выделить ядро Linux, Qt, Android. Git свободен и распространяется под лицензией GNU GPL 2 и, также как Mercurial, доступен практически на всех операционных системах. По своим базовым возможностям git схож с Mercurial (и другими DVCS), но благодаря ряду достоинств (высокая скорость работы, возможность интеграции с другими VCS, удобный интерфейс) и очень активному сообществу, сформировавшемуся вокруг этой системы, git вышел в лидеры рынка распределенных систем контроля версий. Необходимо отметить, что несмотря на большую популярность таких систем как git, крупные корпорации, подобные Google, используют свои VCS.&lt;/p&gt;
+&lt;p&gt;Git is a distributed version control system developed by Linus Torvalds to work on the Linux operating system kernel. Major projects that use git include the Linux kernel, Qt, and Android. Git is free and distributed under the GNU GPL 2 license and, like Mercurial, is available on almost all operating systems. Its basic features are similar to Mercurial (and other DVCS), but thanks to some advantages (high speed, ability to integrate with other VCS, user-friendly interface) and a very active community that has been formed around the system, git became a leader in distributed version control systems. It should be noted that despite the great popularity of systems like git, large corporations like Google use their own VCS.&lt;/p&gt;
 </description>
     </item>
     

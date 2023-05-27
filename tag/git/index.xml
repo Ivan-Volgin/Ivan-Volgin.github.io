@@ -17,10 +17,10 @@
       <link>https://example.com/post/git_versions/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/git_versions/</guid>
-      <description>&lt;h2 id=&#34;что-такое-система-контроля-версий&#34;&gt;Что такое система контроля версий?&lt;/h2&gt;
-&lt;p&gt;Система контроля версий (Version Control System, VCS) представляет собой программное обеспечение, которое позволяет отслеживать изменения в документах, при необходимости производить их откат, определять, кто и когда внес исправления и т.п. В статье рассмотрены виды VCS, принципы их работы, а также приведены примеры программных продуктов. Системы контроля версий можно разделить на две группы: распределенные и централизованные.&lt;/p&gt;
-&lt;h2 id=&#34;централизованные-системы-контроля-версий&#34;&gt;Централизованные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Централизованные системы контроля версий представляют собой приложения типа клиент-сервер, когда репозиторий проекта существует в единственном экземпляре и хранится на сервере. Доступ к нему осуществлялся через специальное клиентское приложение. В качестве примеров таких программных продуктов можно привести CVS, Subversion.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;what-is-a-version-control-system&#34;&gt;What is a version control system?&lt;/h2&gt;
+&lt;p&gt;Version Control System (VCS) is a software that allows you to track changes in documents, if necessary, roll them back, determine who and when made corrections, etc. The article discusses the types of VCS, the principles of their work, as well as examples of software products. Version control systems can be divided into two groups: distributed and centralized.&lt;/p&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized version control systems&lt;/h2&gt;
+&lt;p&gt;Centralized version control systems are client-server applications when the project repository exists in a single instance and is stored on the server. Access to it was carried out through a special client application. Examples of such software products include CVS, Subversion.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -42,8 +42,8 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;распределенные-системы-контроля-версий&#34;&gt;Распределенные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Распределенные системы контроля версий (Distributed Version Control System, DVCS) позволяют хранить репозиторий (его копию) у каждого разработчика, работающего с данной системой. При этом можно выделить центральный репозиторий (условно), в который будут отправляться изменения из локальных и, с ним же эти локальные репозитории будут синхронизироваться. При работе с такой системой, пользователи периодически синхронизируют свои локальные репозитории с центральным и работают непосредственно со своей локальной копией. После внесения достаточного количества изменений в локальную копию они (изменения) отправляются на сервер. При этом сервер, чаще всего, выбирается условно, т.к. в большинстве DVCS нет такого понятия как “выделенный сервер с центральным репозиторием”. Большое преимущество такого подхода заключается в автономии разработчика при работе над проектом, гибкости общей системы и повышение надежности, благодаря тому, что каждый разработчик имеет локальную копию центрального репозитория. Две наиболее известные DVCS – это Git и Mercurial.&lt;/p&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed version control systems&lt;/h2&gt;
+&lt;p&gt;Distributed Version Control Systems (DVCS) allow each developer working with the system to keep a copy of the repository. In this case it is possible to allocate a central repository (conventionally), to which changes from local repositories will be sent, and with it, these local repositories will be synchronized. With such a system, users periodically synchronize their local repositories with the central repository, and work directly with their local copy. Once enough changes have been made to the local copy, they (the changes) are sent to the server. The server is usually chosen conventionally since in most DVCS there is no such a thing as a &amp;ldquo;dedicated server with central repository&amp;rdquo;. The big advantage of this approach is developer autonomy when working on the project, the flexibility of the overall system and increased reliability due to the fact that each developer has a local copy of the central repository. Two of the best known DVCSs are Git and Mercurial.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -65,7 +65,7 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Git – распределенная система контроля версий, разработанная Линусом Торвальдсем для работы над ядром операционной системы Linux. Среди крупных проектов, в рамках которых используется git, можно выделить ядро Linux, Qt, Android. Git свободен и распространяется под лицензией GNU GPL 2 и, также как Mercurial, доступен практически на всех операционных системах. По своим базовым возможностям git схож с Mercurial (и другими DVCS), но благодаря ряду достоинств (высокая скорость работы, возможность интеграции с другими VCS, удобный интерфейс) и очень активному сообществу, сформировавшемуся вокруг этой системы, git вышел в лидеры рынка распределенных систем контроля версий. Необходимо отметить, что несмотря на большую популярность таких систем как git, крупные корпорации, подобные Google, используют свои VCS.&lt;/p&gt;
+&lt;p&gt;Git is a distributed version control system developed by Linus Torvalds to work on the Linux operating system kernel. Major projects that use git include the Linux kernel, Qt, and Android. Git is free and distributed under the GNU GPL 2 license and, like Mercurial, is available on almost all operating systems. Its basic features are similar to Mercurial (and other DVCS), but thanks to some advantages (high speed, ability to integrate with other VCS, user-friendly interface) and a very active community that has been formed around the system, git became a leader in distributed version control systems. It should be noted that despite the great popularity of systems like git, large corporations like Google use their own VCS.&lt;/p&gt;
 </description>
     </item>
     

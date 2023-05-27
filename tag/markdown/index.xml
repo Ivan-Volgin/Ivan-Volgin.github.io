@@ -17,8 +17,8 @@
       <link>https://example.com/post/otchet/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/otchet/</guid>
-      <description>&lt;h2 id=&#34;как-оформить-титульный-лист&#34;&gt;Как оформить титульный лист&lt;/h2&gt;
-&lt;p&gt;На титульном листе должно быть указано, какой тип работы вы выполняете и какой этап. Также нужно указать дисциплину, по которой вы делает работу. В самом конце указываете свое имя, как автора работы.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;how-to-make-a-cover-page&#34;&gt;How to make a cover page&lt;/h2&gt;
+&lt;p&gt;The title page should state what type of work you are doing and what stage. You should also indicate the discipline in which you are doing the work. At the very end, include your name as the author of the work.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -40,8 +40,8 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;цель-работы-задание-и-теоретическое-введение&#34;&gt;Цель работы, задание, и теоретическое введение&lt;/h2&gt;
-&lt;p&gt;После оформления титульного листа нужно предоставить всю необходимую информацию о работе. Отдельным пунктом нужно указать цель работы. Так же нужно указать задания, которые будут выполнены по ходу работы. После всего этого нужно предоставить теоретический материал, который понадобится для понимания работы.&lt;/p&gt;
+&lt;h2 id=&#34;purpose-of-the-paper-the-assignment-and-a-theoretical-introduction&#34;&gt;Purpose of the paper, the assignment, and a theoretical introduction&lt;/h2&gt;
+&lt;p&gt;After the title page, you need to provide all the necessary information about the work. A separate paragraph should specify the purpose of the work. It is also necessary to specify the tasks that will be performed on the course of the work. After all that you need to provide theoretical material that will be needed to understand the work.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -63,8 +63,8 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h2&gt;
-&lt;p&gt;На этом этапе нужно описывать все шаги выполнения лабораторной работы. Рассказываете, как выполнили ту или иную задачу и предоставляете скриншоты (рисунки/фотографии). В тексте обязательно нужно указать ссылки на скриншоты, а сами скриншоты нужно подписать.&lt;/p&gt;
+&lt;h2 id=&#34;performing-the-lab-work&#34;&gt;Performing the lab work.&lt;/h2&gt;
+&lt;p&gt;At this point, you should describe all of the steps of completing the lab work. Describe how you performed this or that task and provide screenshots (pictures/photos). In the text you must specify the links to the screenshots, and the screenshots must be signed.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -86,8 +86,8 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
-&lt;p&gt;В конце обязательно нужно сделать вывод по проделанной работе. Надо сказать, что было проделано, какие результаты получились и что нового удалось узнать.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion.&lt;/h2&gt;
+&lt;p&gt;At the end you should make a conclusion about the work done. It should say what was done, what results were obtained and what new things were learned.&lt;/p&gt;
 </description>
     </item>
     
@@ -96,50 +96,50 @@
       <link>https://example.com/post/markdown/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/markdown/</guid>
-      <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
-&lt;p&gt;Markdown — язык текстовой разметки, созданный писателем и блогером Джоном Грубером. Он предназначен для создания красиво оформленных текстов в обычных файлах формата TXT. Вам не нужны громоздкие процессоры вроде Word или Pages, чтобы создавать документы с жирным или курсивным начертанием, цитатами, ссылками и даже таблицами. Достаточно запомнить простые правила Markdown, и можно писать хоть в «Блокноте». Хотя специализированные Markdown-редакторы, конечно, намного удобнее.&lt;/p&gt;
-&lt;h2 id=&#34;преимущества-markdown&#34;&gt;Преимущества Markdown&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h2&gt;
+&lt;p&gt;Markdown is a text markup language created by writer and blogger John Gruber. It is designed to create beautifully formatted text in ordinary TXT files. You don&amp;rsquo;t need a cumbersome word processor like Word or Pages to create documents with bold or italic type, quotes, links, and even tables. All you need to do is memorize the simple rules of Markdown and you can even write in Notepad. Using a dedicated Markdown editor is a great advantage, of course.&lt;/p&gt;
+&lt;h2 id=&#34;markdown-advantages&#34;&gt;Markdown advantages&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Универсальность&lt;/li&gt;
+&lt;li&gt;Universality&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Документы, написанные с использованием синтаксиса Markdown, представляют собой обычные текстовые файлы TXT. Их можно открыть на любой платформе и в любом редакторе. Этим они выгодно отличаются от файлов, созданных в текстовых процессорах. Пробовали открыть документ из Apple Pages в Word?&lt;/p&gt;
+&lt;p&gt;Documents written using the Markdown syntax are plain TXT files. They can be opened on any platform and in any editor. This makes them different from text processor files. Ever tried opening an Apple Pages document in Word?&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Простота&lt;/li&gt;
+&lt;li&gt;Simplicity&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Markdown настолько прост, что его за 10 минут смогут освоить даже те, кто до этого не слышал про все эти ваши Latex и HTML. Решётки для подзаголовков, звёздочки для выделения, тире для списков. Проще быть не может.&lt;/p&gt;
+&lt;p&gt;Markdown is so easy that even people who haven&amp;rsquo;t heard of Latex and HTML can learn it in 10 minutes. Grids for subheadings, asterisks for highlighting, dashes for lists. It couldn&amp;rsquo;t be easier.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Большой выбор инструментов&lt;/li&gt;
+&lt;li&gt;Large selection of tools&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Редакторов для работы с документами Markdown очень, очень много. Есть и онлайновые, и мобильные, и настольные инструменты. Есть монструозный Atom, красивые и минималистичные ghostwriter и iA Writer, Vim для гиков и Ulysses для профессиональных писателей. Выбирай не хочу.&lt;/p&gt;
+&lt;p&gt;There are many, many editors for working with Markdown documents. There are online, mobile, and desktop tools. There&amp;rsquo;s the monster Atom, the beautiful and minimalistic ghostwriter and iA Writer, Vim for geeks and Ulysses for professional writers. Take your pick.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Конвертируемость&lt;/li&gt;
+&lt;li&gt;Convertibility&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Документы Markdown легко экспортировать в любые форматы: PDF, DOC, ODT. При этом их форматирование остаётся неизменным.&lt;/p&gt;
-&lt;h2 id=&#34;недостатки-markdown&#34;&gt;Недостатки Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown documents can be easily exported in any format such as PDF, DOC and ODT. The formatting is always the same.&lt;/p&gt;
+&lt;h2 id=&#34;disadvantages-of-markdown&#34;&gt;Disadvantages of Markdown&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Ограниченность форматирования&lt;/li&gt;
+&lt;li&gt;Limited formatting&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Так как документы Markdown представляют собой просто текстовые файлы, красивых шрифтов в них не применишь. Всё-таки это скорее инструмент для написания черновиков, чем для полноценной вёрстки.&lt;/p&gt;
+&lt;p&gt;Because Markdown documents are just text files, you can&amp;rsquo;t use fonts to beautify them. It is, after all, more of a drafting tool than a full-fledged typesetting tool.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Строгие правила&lt;/li&gt;
+&lt;li&gt;Strict rules&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;В Markdown текст оформляется посредством служебных символов. Один лишний знак * или #, и форматирование изменится. Так что при наборе текстов в Markdown придётся быть внимательным.&lt;/p&gt;
-&lt;h2 id=&#34;базовый-синтаксис&#34;&gt;Базовый синтаксис&lt;/h2&gt;
+&lt;p&gt;Markdown defines text as appearing in special characters. One extra * or #, and the formatting changes. So you have to be careful when you type in Markdown.&lt;/p&gt;
+&lt;h2 id=&#34;basic-syntax&#34;&gt;Basic syntax&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Тексты в Markdown оформляются посредством специальных символов, вставляемых перед или после слов и фраз. Вот самые простые правила, которые работают во всех редакторах.&lt;/p&gt;
+&lt;p&gt;Markdown texts are formed using special characters either before or after words and phrases. The following are the most basic rules which will work in all Markdown authors.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Заголовки&lt;/p&gt;
+&lt;p&gt;Headings&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Делать заголовки в Markdown чрезвычайно просто. Всё, что вам нужно запомнить, — символ #, он же решётка, он же хеш. Уровень заголовка определяется количеством решёток в нём, всего их может быть шесть. Выглядит это так:&lt;/p&gt;
-&lt;p&gt;&amp;lsquo;# Заголовок H1&amp;rsquo;
-&amp;lsquo;## Заголовок H2&amp;rsquo;
-&amp;lsquo;### Заголовок H3&amp;rsquo;
-&amp;lsquo;#### Заголовок H4&amp;rsquo;
-&amp;lsquo;##### Заголовок H5&amp;rsquo;
-&amp;lsquo;###### Заголовок H6&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Headings in Markdown are incredibly easy to use. All you need to remember is the #, aka hash, symbol. The header level is determined by the number of grids in it, and there can be six in total. It looks like this:&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;## Header H1&amp;rsquo;.&lt;/p&gt;
+&lt;h2 id=&#34;header-h2&#34;&gt;Header H2&#39;.&lt;/h2&gt;
+&lt;p&gt;&amp;lsquo;### Header H3&amp;rsquo;.
+&amp;lsquo;#### Header H4&amp;rsquo;
+&amp;lsquo;##### Header H5&amp;rsquo;
+&amp;lsquo;###### Header H6&amp;rsquo;&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -162,12 +162,14 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Текст&lt;/li&gt;
+&lt;li&gt;Text&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Помимо заголовков, Markdown поддерживает и простое форматирование текста. Его можно сделать курсивным или жирным при помощи звёздочек и подчёркиваний:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Курсив&lt;/em&gt; и &lt;em&gt;Курсив&lt;/em&gt;
-&lt;strong&gt;Жирный текст&lt;/strong&gt; и &lt;strong&gt;Жирный текст&lt;/strong&gt;
-&lt;em&gt;&lt;strong&gt;Жирный и курсивный текст&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In addition to headings, Markdown also supports simple text formatting. It can be italicized or bolded with asterisks and underscores:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Italic* and _Cursive
+&lt;strong&gt;Bold text&lt;/strong&gt; and _Bold text
+&lt;em&gt;&lt;strong&gt;Bold and italic text&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;
 
 
@@ -190,12 +192,40 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Цитаты&lt;/li&gt;
+&lt;li&gt;Quotes.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Иногда какой-то абзац нужно выделить как цитату. В этом случае воспользуйтесь знаком &amp;gt;. Его необходимо проставлять перед каждой строчкой цитаты.&lt;/p&gt;
+&lt;p&gt;Sometimes a paragraph needs to be highlighted as a quote. In this case, use the &amp;gt; sign. It must be placed before each line of the quote.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bold text&lt;/strong&gt; and _Bold text
+&lt;strong&gt;Bold text&lt;/strong&gt; and _Bold text
+&lt;em&gt;&lt;strong&gt;Bold and italic text&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quotes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sometimes a paragraph needs to be highlighted as a quote. In this case, use the &amp;gt; sign. It must be placed before each line of the quote.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Очень глубокомысленная цитата. Пожалуйста, прочтите её внимательно.&lt;/p&gt;
-&lt;p&gt;Оскар Уайльд&lt;/p&gt;
+&lt;p&gt;A very profound quote. Please read it carefully.&lt;/p&gt;
+&lt;p&gt;Oscar Wilde&amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

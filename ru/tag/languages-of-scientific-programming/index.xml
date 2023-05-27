@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Languages of scientific programming | Academic</title>
+    <link>https://example.com/ru/tag/languages-of-scientific-programming/</link>
+      <atom:link href="https://example.com/ru/tag/languages-of-scientific-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Languages of scientific programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Languages of scientific programming</title>
+      <link>https://example.com/ru/tag/languages-of-scientific-programming/</link>
+    </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/ru/post/languages-of-scientific-programming/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/languages-of-scientific-programming/</guid>
+      <description>&lt;h2 id=&#34;основные-языки-научного-программирования&#34;&gt;Основные языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Обычно ученые пишут вычислительный код на C++, а потом оборачивают его в код на Python. Этот подход себя изживает: на Python очень сложно поддерживать большую кодовую базу, а тут размеры проектов растут именно на стороне пользователей кода — учёных. Поэтому такие системы потихоньку рассыпаются и последние пять лет инженеры и учёные ищут более гибкие и простые альтернативы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;другие-языки-научного-программирования&#34;&gt;Другие языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Кроме Python в разных областях науки пишут или пытались писать на других языках.&lt;/p&gt;
+&lt;p&gt;R. Его используют в статистике. Это узкоспециализированный язык, который отлично подходит для решения статистических задач. Но часто нам надо не только получить данные, но и сделать веб-сервис, чтобы пользователь имел доступ к этим данным. Написать его на R — дело непростое.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Julia. Это довольно интересный язык со множеством конструктивных особенностей. Попробуйте его, если вам не хватает скорости или гибкости в Python. Хотя и у Julia есть недостаток: его набор инструментов всё ещё нестабильный.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Swift. Из Swift тоже пытались сделать универсальный язык, но он так и не вышел за рамки iOS. А потом появился Kotlin, который по синтаксису сильно напоминает Swift, но при этом подходит для решения более широкого спектра задач и позволяет работать с библиотеками из Java, JavaScript и C.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Java. Java — это классный язык, который часто несправедливо ругают. Его создавали для энтерпрайза, поэтому там чересчур затянутая «церемония»: чтобы собрать простое приложение, надо написать много дополнительного кода. Да, это упрощает поддержку и повышает стабильность приложения, но сильно усложняет сам процесс программирования.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Kotlin. Kotlin обладает достоинствами Java, но избавляет программиста от доброй половины «церемоний», и потому у него большие перспективы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./7.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
